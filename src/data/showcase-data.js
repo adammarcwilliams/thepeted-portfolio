@@ -16,7 +16,7 @@ export default [
     fullWidth: false
   },
   {
-    description: 'I love writing HTML and CSS to recreate some of the amazing UI designs created by members at <a href="https://dribbble.com/">dribbble.com</a>. I couldn&#8217;t resist bringing this <a href="https://dribbble.com/shots/1009776-Calculator-for-Smartisan-OS"> gorgeous calculator design</a> to life using JavaScript and JQuery.  It functions the same as your trusy pocket calculator, complete with memory functions, although sadly it is not solar powered (yet).',
+    description: 'I love writing HTML and CSS to recreate some of the amazing UI designs created by members at <a href="https://dribbble.com/">dribbble.com</a>. I couldn&#8217;t resist bringing this <a href="https://dribbble.com/shots/1009776-Calculator-for-Smartisan-OS"> gorgeous calculator design</a> to life using JavaScript and JQuery.  It functions the same as your trusty pocket calculator, complete with memory functions, although sadly it is not solar powered (yet).',
     hash: 'avLwNw',
     height: 480,
     title: 'Pocket Calculator',
